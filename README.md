@@ -1,1 +1,3 @@
-# visually_balanced_cartograms
+# Visually Balanced Cartograms
+
+Visually Balanced Cartograms (VBC's) are both a mehod, as well as a mapping type. I am not the inventor of this method, but I find them very useul and interesting and have decided to spend a portion of my paternity leave exploring them. I have choosen to create this github repository to use as a diary, or exloration log. I wish to begin this first entry with a link to the article that introduced me VBC's pubished in the [Jornal of Maps, volume 14 (2018) by the European scholars Richard Harris, Martin Charlton, and Chris Brundson](https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1478753).
