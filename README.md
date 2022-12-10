@@ -9,7 +9,8 @@ Explore these publications first:
 4. [Tackling the Curse of Cartograms: addressing misrepresentation due to invisibility and to distortion](https://huckg.is/gisruk2017/GISRUK_2017_paper_29.pdf)
 5. [Implementing a Multilevel Index of Dissimilarity in R with a case study of the changing scales of residential ethnic segregation in England and Wales](https://journals.sagepub.com/doi/full/10.1177/2399808317748328)
 
-#### Ltt Review 1 
-[Mapping the changing residential geography of White British secondary school children in England using visually balanced cartograms and hexograms](https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1478753)
-The paper quickly identifies the problem VBC's will solve: the problem of (1) invisibility - think map of census tract map of state, some tracts are so small you can't see them, and (2) distorition - think of a typical cartogram map, the original geography is usually distored so much you can't tell where you are spatially.
+# Lit Review
+Goal: As I conduct this literature review I am paying attention to two things: (1) is the paper showing how VBC's can be used to solve a problem (use-cases), and (2) is the paper describing how VBC's are created, exposing the methods, thus providing a chance for new researchers, like me, to try and come up with a new way to expand the methodology, to add to a feature to it, or improve an old feature. I am more interested in the second area because I love VBC's and would love to contribute to their advancement. But, the first area is also important, because I feel it is those examples that will show me how VBC's are described as a solution in the literature. 
+#### [Mapping the changing residential geography of White British secondary school children in England using visually balanced cartograms and hexograms](https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1478753)
+  For this article, a use-case is presented: changes in racial residential segregation want to be assessed, census-tract-like geographies create an invisibility problem - think map of census tract map of state, some tracts are so small you can't see them, and (2) distorition - think of a typical cartogram map, the original geography is usually distored so much you can't tell where you are spatially.
 
