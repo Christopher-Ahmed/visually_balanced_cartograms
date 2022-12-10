@@ -8,3 +8,8 @@ Explore these publications first:
 3. [Balancing visibility and distortion: Remapping the results of the 2015 UK General Election](https://journals.sagepub.com/doi/full/10.1177/0308518X17708439)
 4. [Tackling the Curse of Cartograms: addressing misrepresentation due to invisibility and to distortion](https://huckg.is/gisruk2017/GISRUK_2017_paper_29.pdf)
 5. [Implementing a Multilevel Index of Dissimilarity in R with a case study of the changing scales of residential ethnic segregation in England and Wales](https://journals.sagepub.com/doi/full/10.1177/2399808317748328)
+
+#### Ltt Review 1 
+[Mapping the changing residential geography of White British secondary school children in England using visually balanced cartograms and hexograms](https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1478753)
+The paper quickly identifies the problem VBC's will solve: the problem of (1) invisibility - think map of census tract map of state, some tracts are so small you can't see them, and (2) distorition - think of a typical cartogram map, the original geography is usually distored so much you can't tell where you are spatially.
+
